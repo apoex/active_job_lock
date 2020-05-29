@@ -10,7 +10,6 @@ Gem::Specification.new do |s|
   s.homepage          = 'http://github.com/dferrazm/active_job_lock'
   s.email             = ''
   s.authors           = ['Daniel Ferraz', 'Luke Antins']
-  s.has_rdoc          = false
 
   s.files             = %w(README.md Rakefile LICENSE HISTORY.md)
   s.files            += Dir.glob('lib/**/*')
